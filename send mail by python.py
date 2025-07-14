@@ -3,7 +3,7 @@ from email.message import EmailMessage
 
 # Your Gmail credentials (DO NOT use your regular Gmail password)
 sender_email = "kamilalikhan554@gmail.com"
-app_password = "sswt ahuq qbab wjmr"
+app_password = "enter your app password"
 receiver_email = "iarbazkhan47@gmail.com"
 
 # Create the email
